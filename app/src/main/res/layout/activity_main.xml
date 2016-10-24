@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.player.MainActivity">
+    <TextView
+        android:id="@+id/activity_play_id"
+        style="@style/CategoryStyle"
+        android:text="Play"
+        android:background="@color/category_playTune"/>
+    <TextView
+        android:id="@+id/activity_store_id"
+        style="@style/CategoryStyle"
+        android:text="Store"
+        android:background="@color/category_suggestions"/>
+    <TextView
+        android:id="@+id/activity_effects_id"
+        style="@style/CategoryStyle"
+        android:text="Effects"
+        android:background="@color/category_effects"/>
+    <TextView
+        android:id="@+id/activity_settings_id"
+        style="@style/CategoryStyle"
+        android:text="Settings"
+        android:background="@color/category_settings"/>
+</LinearLayout>
