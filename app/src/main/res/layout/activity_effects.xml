@@ -10,4 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.android.player.EffectsActivity">
 
+    <TextView
+        style="@style/DescriptionStyle"
+        android:text="@string/Effects_Desc"/>
 </RelativeLayout>

@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Player</string>
+    <string name="Play_Desc">
+        This activity lists the playlist of the user and let the user play their songs
+    </string>
+    <string name="Store_Desc">
+        This activity takes the user to a market place where the user can by their favorite songs
+    </string>
+    <string name="Effects_Desc">
+        Configure Visualization effects and More
+    </string>
+    <string name="Settings_Desc">
+        Manage your account and Playlists...!
+    </string>
+    <string name="play">Play Your Rhythm...!</string>
+    <string name="store">Discover Your Tune...!</string>
+    <string name="effect">Please Your Eyes...!</string>
+    <string name="settings">Rule your Heart...!</string>
 </resources>

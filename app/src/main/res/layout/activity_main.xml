@@ -10,21 +10,21 @@
     <TextView
         android:id="@+id/activity_play_id"
         style="@style/CategoryStyle"
-        android:text="Play"
+        android:text="@string/play"
         android:background="@color/category_playTune"/>
     <TextView
         android:id="@+id/activity_store_id"
         style="@style/CategoryStyle"
-        android:text="Store"
+        android:text="@string/store"
         android:background="@color/category_suggestions"/>
     <TextView
         android:id="@+id/activity_effects_id"
         style="@style/CategoryStyle"
-        android:text="Effects"
+        android:text="@string/effect"
         android:background="@color/category_effects"/>
     <TextView
         android:id="@+id/activity_settings_id"
         style="@style/CategoryStyle"
-        android:text="Settings"
+        android:text="@string/settings"
         android:background="@color/category_settings"/>
 </LinearLayout>
